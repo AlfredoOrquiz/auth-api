@@ -7,6 +7,7 @@
     "start": "node index.js",
     "init:config": "sequelize init:config",
     "db:create": "sequelize db:create",
+    "lint": "eslint **/*.js",
     "watch": "nodemon index.js",
     "test-watch": "jest --watchAll",
     "test": "jest"
