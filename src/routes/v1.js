@@ -1,7 +1,7 @@
 'use strict';
 
 const express = require('express');
-const dataModules = require('../../../auth-server/src/models');
+const dataModules = require('../../src/models');
 
 const router = express.Router();
 
