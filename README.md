@@ -16,7 +16,7 @@ Your tests must be running green on Github Actions.
 [TESTS](./__tests__)
 
 ## Documentation
-![](file:///c%3A/Users/Alcatraz/OneDrive/Documents/Important%20documents/School/Code%20Fellows/401%20Challenges/Challenge-08.jpg)
+![](Images/Lab-08.png)
 
 ## Routing
 Run "npm test" in the terminal to test routes. You can also test these routes in thunder client:
